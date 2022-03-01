@@ -1,7 +1,6 @@
 - 👋 Olá ! Eu sou o Ygor Belfiori, Estudante de programação e tecnologia!
 - 👀 Aprendendo front-end
 - 🌱 Cursando Analise e desenvolvimento de Sistemas
-
 <div align="center">
   <a href="https://github.com/ygorbelfiori">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ygorbelfiori&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -20,6 +19,5 @@
   <a href="https://instagram.com/ygor.alemao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ygor-belfiori-19916721a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
-
     
 ![Animação de cobra](https://github.com/ygorbelfiori/ygorbelfiori/blob/output/github-contribution-grid-snake.svg)
